@@ -1,7 +1,7 @@
-# My Personal Website
+## My Personal Website
 
-## pranshukumar.xyz
-## Just type pranshukumar.xyz in any browser 
+##### pranshukumar.xyz
+##### Just type pranshukumar.xyz in any browser 
 
-### Check it out !!!
+###### Check it out !!!
 
